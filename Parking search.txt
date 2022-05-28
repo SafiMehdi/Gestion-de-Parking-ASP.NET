@@ -1,0 +1,192 @@
+<form class="row gy-2 gx-3 align-items-center searchForm">
+    <div class="col-auto">
+            <label>City</label> <select class="form-control select2 select2-hidden-accessible" style="width: 100%;" tabindex="-1" aria-hidden="true">
+                <option selected="selected">Rabat</option>
+                <option>Casablanca</option>
+                <option>Kenitra</option>
+                <option>Marrakech</option>
+            </select>
+    </div>
+
+    <div class="col-3">
+        <label class="visually-hidden" for="autoSizingInputGroup">Arrival time</label>
+        <div class="input-group">
+            <input type="datetime-local"
+                   class="form-control"
+                   id="autoSizingInputGroup"
+                   placeholder="Arrival time" />
+        </div>
+    </div>
+
+    <div class="col-3">
+        <label class="visually-hidden" for="autoSizingInputGroup">Arrival time</label>
+        <div class="input-group">
+            <input type="datetime-local"
+                   class="form-control"
+                   id="autoSizingInputGroup"
+                   placeholder="Arrival time" />
+        </div>
+    </div>
+
+    <div class="col-3 mt-4">
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
+</form>
+
+<div class="container " style="margin-top: 50px; overflow-y: scroll; padding-right: 25px; box-sizing: content-box; max-height:450px;">
+    <div class="row">
+        <div class="col-md-3 mb-3">
+            <div class="card-sl">
+                <div class="card-image">
+                    <img src="https://images.pexels.com/photos/1149831/pexels-photo-1149831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
+                </div>
+
+                <div class="card-heading">
+                    Gare Rabat Ville
+                </div>
+                <div class="card-text">
+                    Adress of the parking station : Lorem ipsum dolor sit amet, consectetur adip qsqdqn qdsn qs iadk a ,ia azd qnsdlq sdonqs knnknqsdnknqd qdknqsdnq nkqd
+                </div>
+                <div class="card-text">
+                    Price / Hour : 80$
+                </div>
+                <a href="#0" class="card-button"> Reserver </a>
+            </div>
+        </div>
+
+
+        <div class="col-md-3 mb-3">
+            <div class="card-sl">
+                <div class="card-image">
+                    <img src="https://images.pexels.com/photos/1149831/pexels-photo-1149831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
+                </div>
+
+                <div class="card-heading">
+                    Gare Rabat Ville
+                </div>
+                <div class="card-text">
+                    Adress of the parking station : Lorem ipsum dolor sit amet, consectetur adip qsqdqn qdsn qs iadk a ,ia azd qnsdlq sdonqs knnknqsdnknqd qdknqsdnq nkqd
+                </div>
+                <div class="card-text">
+                    Price / Hour : 80$
+                </div>
+                <a href="#" class="card-button"> Reserver </a>
+            </div>
+        </div>
+
+        <div class="col-md-3 mb-3">
+            <div class="card-sl">
+                <div class="card-image">
+                    <img src="https://images.pexels.com/photos/1149831/pexels-photo-1149831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
+                </div>
+
+                <div class="card-heading">
+                    Gare Rabat Ville
+                </div>
+                <div class="card-text">
+                    Adress of the parking station : Lorem ipsum dolor sit amet, consectetur adip qsqdqn qdsn qs iadk a ,ia azd qnsdlq sdonqs knnknqsdnknqd qdknqsdnq nkqd
+                </div>
+                <div class="card-text">
+                    Price / Hour : 80$
+                </div>
+                <a href="#" class="card-button"> Reserver </a>
+            </div>
+        </div>
+
+        <div class="col-md-3 mb-3">
+            <div class="card-sl">
+                <div class="card-image">
+                    <img src="https://images.pexels.com/photos/1149831/pexels-photo-1149831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
+                </div>
+
+                <div class="card-heading">
+                    Gare Rabat Ville
+                </div>
+                <div class="card-text">
+                    Adress of the parking station : Lorem ipsum dolor sit amet, consectetur adip qsqdqn qdsn qs iadk a ,ia azd qnsdlq sdonqs knnknqsdnknqd qdknqsdnq nkqd
+                </div>
+                <div class="card-text">
+                    Price / Hour : 80$
+                </div>
+                <a href="#" class="card-button"> Reserver </a>
+            </div>
+        </div>
+        <div class="col-md-3 mb-3">
+            <div class="card-sl">
+                <div class="card-image">
+                    <img src="https://images.pexels.com/photos/1149831/pexels-photo-1149831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
+                </div>
+
+                <div class="card-heading">
+                    Gare Rabat Ville
+                </div>
+                <div class="card-text">
+                    Adress of the parking station : Lorem ipsum dolor sit amet, consectetur adip qsqdqn qdsn qs iadk a ,ia azd qnsdlq sdonqs knnknqsdnknqd qdknqsdnq nkqd
+                </div>
+                <div class="card-text">
+                    Price / Hour : 80$
+                </div>
+                <a href="#" class="card-button"> Reserver </a>
+            </div>
+        </div>
+    </div>
+ </div>
+
+<div class="flex">
+    <div class="modalcontainer">
+        <div class="flex">
+            <div class="modal">
+                <div class="close"><span>&#43;</span></div>
+                <div class="content">
+                   
+                    <div class="container rounded bg-white">
+                        <div class="row d-flex justify-content-center pb-5">
+                            <div class="col-sm-5 col-md-2 ml-1">
+                                <img src="~/assets/ParkmeLogin.png" class="rounded mx-auto d-block hmayda" >
+
+                            </div>
+                            <div class="col-sm-3 col-md-5 offset-md-1 mt-5 mobile">
+                                <div class="bg-light rounded d-flex flex-column mt-3">
+                                    <div class="p-2 ml-3"><h4>Reservation Recap</h4></div>
+                                    <div class="p-2 d-flex">
+                                        <div class="col-8">Arriving Time</div>
+                                        <div class="ml-auto"> <input type="text" name="name" value="swi3a" disabled style="width:250px;"/> </div>
+                                    </div>
+                                    <div class="p-2 d-flex">
+                                        <div class="col-8">Departure Time</div>
+                                        <div class="ml-auto"> <input type="text" name="name" value="swi3a" disabled style="width:250px;"/> </div>
+                                    </div>
+                                    <div class="p-2 d-flex">
+                                        <div class="col-8">Parking Address</div>
+                                        <div class="ml-auto"> <input type="text" name="name" value="ladirsa" disabled style="width:250px;"/> </div>
+                                    </div>
+                                    <div class="p-2 d-flex">
+                                        <div class="col-8">Parking Slot</div>
+                                        <div class="ml-auto"> <input type="text" name="name" value="lbliysa" disabled style="width:250px;"/> </div>
+                                    </div>
+                                    <div class="p-2 d-flex">
+                                        <div class="col-8">Price / Hour(Minute)</div>
+                                        <div class="ml-auto"> <input type="text" name="name" value="taman" disabled style="width:250px;"/> </div>
+                                    </div>
+                                    <div class="border-top px-4 mx-3">
+                                    </div>
+                                    <div class="p-2 d-flex pt-3">
+                                        <div class="col-8">Credit Card Number</div>
+                                        <div class="ml-auto"> <input type="text" name="name" value="" style="width:250px;" /> </div>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                
+                </div>
+                <div class="buttons">
+                    <a href="#0" class="text-decoration-none">Cancel</a>
+                    <a href="#0" class="text-decoration-none">Payer</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
